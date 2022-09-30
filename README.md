@@ -59,9 +59,16 @@ history_seen - total times user has seen the word/lexeme prior to this lesson/pr
 history_correct - total times user has been correct for the word/lexeme prior to this lesson/practice
 session_seen - times the user saw the word/lexeme during this lesson/practice
 session_correct - times the user got the word/lexeme correct during this lesson/practice
-Here 
- 
 
-In the rest of this notebook, we will clean the downloaded dataset, and do some preliminary EDA to understand the breadth and depth of the data.
+## Environment: 
+ 
+Google Colaboratory, 2022
+
+Requirements
+
+Notebooks:
+1. [Dataset cleaning and EDA](https://colab.research.google.com/drive/1jc1cHYcWjFtZevRNBLZvkP9pm6UguR4N#scrollTo=ffn51ky9Vmir)
+ 
+2. 
 
 The dataset was downloaded to my Google drive, and is now copied to the notebook.
