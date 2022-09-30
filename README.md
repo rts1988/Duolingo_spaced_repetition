@@ -68,35 +68,35 @@ Requirements
 
 Notebooks:
 Basic EDA of provided dataset:
-[1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb)
+- [1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb)
 
 Word based features data acquisition, preprocessing and EDA:
-[2_Duolingo_preprocessing_wordEDA.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2_Duolingo_preprocessing_wordEDA.ipynb)
-[2A_WordVectors_Duolingo_spaced_repetition.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2A_WordVectors_Duolingo_spaced_repetition.ipynb)
-[2B_Google_Cloud_Translate_API.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2B_Google_Cloud_Translate_API.ipynb)
-[BNC_corpus_reader.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/BNC_corpus_reader.ipynb)
-[BNC_corpus_sum.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/BNC_corpus_sum.ipynb)
+- [2_Duolingo_preprocessing_wordEDA.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2_Duolingo_preprocessing_wordEDA.ipynb)
+- [2A_WordVectors_Duolingo_spaced_repetition.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2A_WordVectors_Duolingo_spaced_repetition.ipynb)
+- [2B_Google_Cloud_Translate_API.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2B_Google_Cloud_Translate_API.ipynb)
+- [BNC_corpus_reader.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/BNC_corpus_reader.ipynb)
+- [BNC_corpus_sum.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/BNC_corpus_sum.ipynb)
 
 Splitting datasets
-[4_SplittingDatasets_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/4_SplittingDatasets_Duolingo_spaced_repetition.ipynb)
+- [4_SplittingDatasets_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/4_SplittingDatasets_Duolingo_spaced_repetition.ipynb)
 
 Preprocessing for Unseen words modeling
 - [5_Q1_Set1_preprocessing_pipeline.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/5_Q1_Set1_preprocessing_pipeline.ipynb)
 - [6_Duolingo_q1lpipe1_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/6_Duolingo_q1lpipe1_MLsplitting_modeling.ipynb)
 - [9_Q1_Set2_preprocessing_pipeline.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9_Q1_Set2_preprocessing_pipeline.ipynb)
-- [9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb]([https://colab.research.google.com/drive/1t_gOCa688b2BZHdZ84phj2xn7i7eNq8D](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb))
+-[9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb)
 - [10_Duolingo_q1lpipe4_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/10_Duolingo_q1lpipe4_MLsplitting_modeling.ipynb) – this is the one that was finally used
 - [10A_Duolingo_q1l_onlyprovided_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/10A_Duolingo_q1l_onlyprovided_MLsplitting_modeling.ipynb) – this compares best model with baseline
 
 Unseen students EDA and preprocessing:
-[13_Duolingo_q2l_fs1_MLmodeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/13_Duolingo_q2l_fs1_MLmodeling.ipynb)
-[14_Q2Duolingo_preprocessing_studentfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/14_Q2Duolingo_preprocessing_studentfeatures_modeling.ipynb)
-[15_Q2Duolingo_preprocessing_studentandwordfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/15_Q2Duolingo_preprocessing_studentandwordfeatures_modeling.ipynb)
+- [13_Duolingo_q2l_fs1_MLmodeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/13_Duolingo_q2l_fs1_MLmodeling.ipynb)
+- [14_Q2Duolingo_preprocessing_studentfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/14_Q2Duolingo_preprocessing_studentfeatures_modeling.ipynb)
+- [15_Q2Duolingo_preprocessing_studentandwordfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/15_Q2Duolingo_preprocessing_studentandwordfeatures_modeling.ipynb)
 
 Q3 Unseen languages testing: 
-[16_Q3and2_Duolingo_allfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/16_Q3and2_Duolingo_allfeatures_modeling.ipynb)
-[17_Q3and2_Duolingo_novectors_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/17_Q3and2_Duolingo_novectors_modeling.ipynb)
-[18_Q3and2TESTSwith_Duolingo_onlyderived_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/18_Q3and2_Duolingo_onlyderived_modeling.ipynb)
+- [16_Q3and2_Duolingo_allfeatures_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/16_Q3and2_Duolingo_allfeatures_modeling.ipynb)
+- [17_Q3and2_Duolingo_novectors_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/17_Q3and2_Duolingo_novectors_modeling.ipynb)
+- [18_Q3and2TESTSwith_Duolingo_onlyderived_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/18_Q3and2_Duolingo_onlyderived_modeling.ipynb)
 
 
 The dataset was downloaded to my Google drive, and is now copied to the notebook.
