@@ -68,7 +68,7 @@ Requirements
 
 Notebooks:
 Basic EDA of provided dataset:
-- [1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb)
+- [1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/1_Introduction_basicEDA_Duolingo_spaced_repetition.ipynb)
 
 Word based features data acquisition, preprocessing and EDA:
 - [2_Duolingo_preprocessing_wordEDA.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/2_Duolingo_preprocessing_wordEDA.ipynb)
@@ -78,13 +78,13 @@ Word based features data acquisition, preprocessing and EDA:
 - [BNC_corpus_sum.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/BNC_corpus_sum.ipynb)
 
 Splitting datasets
-- [4_SplittingDatasets_Duolingo_spaced_repetition.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/4_SplittingDatasets_Duolingo_spaced_repetition.ipynb)
+- [4_SplittingDatasets_Duolingo_spaced_repetition.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/4_SplittingDatasets_Duolingo_spaced_repetition.ipynb)
 
 Preprocessing for Unseen words modeling
 - [5_Q1_Set1_preprocessing_pipeline.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/5_Q1_Set1_preprocessing_pipeline.ipynb)
 - [6_Duolingo_q1lpipe1_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/6_Duolingo_q1lpipe1_MLsplitting_modeling.ipynb)
 - [9_Q1_Set2_preprocessing_pipeline.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9_Q1_Set2_preprocessing_pipeline.ipynb)
--[9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb(https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb)
+-[9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/9A_Q1_Set2_downsampling_preprocessing_pipeline.ipynb)
 - [10_Duolingo_q1lpipe4_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/10_Duolingo_q1lpipe4_MLsplitting_modeling.ipynb) – this is the one that was finally used
 - [10A_Duolingo_q1l_onlyprovided_MLsplitting_modeling.ipynb](https://github.com/rts1988/Duolingo_spaced_repetition/blob/main/10A_Duolingo_q1l_onlyprovided_MLsplitting_modeling.ipynb) – this compares best model with baseline
 
